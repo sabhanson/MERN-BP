@@ -47,3 +47,4 @@ To create a single-page MERN stack application to solve a real-world problem.
 
 ### Resources
 - [How to Map Data into Components in React](https://www.geeksforgeeks.org/how-to-map-data-into-components-using-reactjs/)
+- [Deploy to Heroku](https://coding-boot-camp.github.io/full-stack/mongodb/deploy-with-heroku-and-mongodb-atlas)
