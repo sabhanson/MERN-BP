@@ -43,3 +43,7 @@ To create a single-page MERN stack application to solve a real-world problem.
 - `useState` hooks - (refer to `20-React/01-Activities/11-Ins_State` for how to set up `useState`)
 - `useEffect` hooks - (refer to `20-React/01-Activities/17-Ins_Hooks-useEffect` for how to set up `useEffect`)
 
+
+
+### Resources
+- [How to Map Data into Components in React](https://www.geeksforgeeks.org/how-to-map-data-into-components-using-reactjs/)
