@@ -14,6 +14,17 @@ To create a single-page MERN stack application to solve a real-world problem.
 - [ ] work on typeDefs and resolvers, test in Apollo playground
 - [ ] start wireframing in React, basic page layout with your component library of choice
 
+# Goals for Day 3
+
+- [ ] Solidify queries/mutations/resolvers
+- [ ] Get React front end built with component library of choice
+- [ ] Prepare to have MVP built for Wednesday (day 4)
+
+# Goals for Day 4
+
+- [ ] MVP built
+- [ ] start planning presentation
+
 # Main Points to Remember
 
 - `React` front end
