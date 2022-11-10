@@ -22,7 +22,8 @@ To create a single-page MERN stack application to solve a real-world problem.
 
 # Goals for Day 4
 
-- [ ] MVP built
+- [ ] rough MVP built
+- [ ] form working to add new data to database
 - [ ] start planning presentation
 
 # Main Points to Remember
